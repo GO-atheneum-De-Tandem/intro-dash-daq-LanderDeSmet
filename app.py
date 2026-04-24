@@ -1,5 +1,4 @@
 # Import packages
-from turtle import title
 
 from dash import Dash, State, dcc, Input, Output
 import dash_bootstrap_components as dbc
